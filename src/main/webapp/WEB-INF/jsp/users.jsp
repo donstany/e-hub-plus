@@ -37,6 +37,8 @@ $(document).ready(function() {
 		</c:forEach>
 	</tbody>
 </table>
+<br/>
+<hr/>
 
 
 <!-- Modal -->

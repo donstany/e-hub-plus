@@ -42,6 +42,9 @@
 		</div>
 	</div>
 </form:form>
+<br/>
+<hr/>
+
 
 
 <script type="text/javascript">

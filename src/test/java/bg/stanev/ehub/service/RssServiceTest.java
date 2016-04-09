@@ -22,6 +22,7 @@ public class RssServiceTest {
 	}
 
 	// follow 3a pattern for testing
+	//important for title different  from English swith eclipse to work with UTF-8
 	@Test
 	public void testGetItemsFile() throws RssException {
 		List<Item> items = rssService.getItems(new File("test-rss/nakov.xml"));

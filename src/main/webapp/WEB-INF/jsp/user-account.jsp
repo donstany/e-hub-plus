@@ -123,6 +123,8 @@ $(document).ready(function() {
   </div>
 </c:forEach>
 </div>
+<br/>
+<hr/>
 
 
 <!-- Modal -->
